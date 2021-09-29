@@ -3,4 +3,5 @@
 author: João Carlos
 mail: jocagoncalvess@gmail.com
 
-version: 0.0.1
+
+version: 0.0.2
