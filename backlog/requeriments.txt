@@ -1,0 +1,5 @@
+## Tela inicial
+
+    - Adicionar gastos
+    - Extrato 
+    - Exportar planilha 
